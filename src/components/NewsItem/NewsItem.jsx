@@ -1,8 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class NewsItem extends Component {
-  render() {
-    let { title, description, imageUrl, newsUrl, author, date, source } = this.props;
+
+
+export default function NewsItem(props) {
+  
+  
+    let { title, description, imageUrl, newsUrl, author, date, source } = props;
     return (
       <div className="card">
         <div style={{"display":"flex", "justifyContent":"flex-end",
@@ -38,5 +41,5 @@ export default class NewsItem extends Component {
         </div>
       </div>
     );
-  }
+  
 }
