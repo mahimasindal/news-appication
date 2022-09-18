@@ -23,7 +23,7 @@ export default function Navbar() {
                 <Link className="nav-link" to="/entertainment">Entertainment</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/health">Health21</Link>
+                <Link className="nav-link" to="/health">Health31</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/science">Science22</Link>
