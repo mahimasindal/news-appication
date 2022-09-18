@@ -29,7 +29,7 @@ export default function Navbar() {
                 <Link className="nav-link" to="/science">Science22</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">Sports</Link>
+                <Link className="nav-link" to="/sports">Sports22</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/technology">technology</Link>
