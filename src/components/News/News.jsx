@@ -71,7 +71,7 @@ export default function News(props) {
  
     return (
       <div className="container my-3" >
-        <h2 className='text-center' style={{"marginTop":90+"px"}}>TEST 1 NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines
+        <h2 className='text-center' style={{"marginTop":90+"px"}}>TEST 1 TEST 2 NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines
         </h2>
         {loading && <Spinner/>}
         <InfiniteScroll
