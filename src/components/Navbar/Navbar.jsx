@@ -17,7 +17,7 @@ export default function Navbar() {
                 <Link className="nav-link active" aria-current="page" to="/">Home-changing in master</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/business">Business</Link>
+                <Link className="nav-link" to="/business">Business ticket10 changes</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/entertainment">Entertainment</Link>
