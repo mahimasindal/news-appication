@@ -16,11 +16,18 @@ export default function Navbar() {
               <li className="nav-item">
                 <Link className="nav-link active" aria-current="page" to="/">Home-changing in master ticket778 10</Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/business">Business</Link>
+
+              
+
+              <li>
+                <Link className="nav-link" to="/business">Business ticket ticket10 changes</Link>
+
+                
+
+
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/entertainment">Entertainment</Link>
+                <Link className="nav-link" to="/entertainment">Entertainment-ticket12</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/health">Health31</Link>
