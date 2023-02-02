@@ -17,13 +17,8 @@ export default function Navbar() {
                 <Link className="nav-link active" aria-current="page" to="/">Home-changing in master ticket778 10</Link>
               </li>
 
-              
-
-              <li>
-                <Link className="nav-link" to="/business">Business ticket ticket10 changes</Link>
-
-                
-
+              <li className="nav-item">
+                <Link className="nav-link" to="/business">Business ticket9 change 11</Link>
 
               </li>
               <li className="nav-item">
@@ -36,7 +31,7 @@ export default function Navbar() {
                 <Link className="nav-link" to="/science">Science22</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">Sports22</Link>
+                <Link className="nav-link" to="/sports">Sports222</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/technology">technology22</Link>
